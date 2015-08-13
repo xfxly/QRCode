@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/appdevp/Downloads/QRCode/libs/core.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="/Users/appdevp/Downloads/QRCode/build/intermediates/pre-dexed/debug/core-d06bb60af6b0a33998fbafc8d135d8bd8c096ed5.jar" />
+    </item>
+
+</items>

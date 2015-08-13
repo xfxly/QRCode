@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World</string>
+    <string name="app_name">QRCode</string>
+    <string name="app_qr">条码扫描</string>
+    <string name="success">保存成功</string>
+    <string name="sdcarderror">sd卡错误</string>
+    <string name="fail">保存失败</string>
+
+</resources>
